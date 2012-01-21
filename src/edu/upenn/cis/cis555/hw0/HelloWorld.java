@@ -7,6 +7,6 @@ public class HelloWorld {
 	}
 	
 	public static void main(String[] args) {
-		HelloWorld.writeName();
+		System.out.println(HelloWorld.writeName());
 	}
 }

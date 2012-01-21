@@ -1,14 +1,16 @@
-Full name: ___________________
-SEAS login: _________
+Full name: Jonathan Leung
+SEAS login: jonleung
 
 Description of features implemented:
-  Hello world
+  The HelloWorld class implements the method "writeName()" that returns the string "Jonathan Leung (jonleung)". The main method calls this functions and prints it out using System.out.println().
 
 Extra credits claimed:
   None
 
 List of source files included (consider using `find src | grep java`)
-  src/edu/upenn/cis/cis555/hw0/Main.java
+  src/edu/upenn/cis/cis555/hw0/HelloWorld.java
+  src/test/edu/upenn/cis/cis555/hw0/HelloWorldTest.java
+  src/test/edu/upenn/cis/cis555/hw0/RunAllTests.java
 
 Outside sources used:
   None
